@@ -13,7 +13,7 @@ the name of open source software which enables the use of this currency.
 
 The repository for Paycoin Core can be found here: https://github.com/PaycoinFoundation/paycoin
 
-Contributing
+Contributing from community
 ------------
 Paycoin.com is a community driven project and accepts contributions of code from the community.
 
